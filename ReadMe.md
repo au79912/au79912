@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Vision with Google Cloud<br>👯 I’m looking to collaborate on DeFi Banking Systems<br>👨‍💻 All of my projects are available at https://github.com/au79912?tab=repositories<br>📫 How to reach me ayihanhaq@gmail.com or hit me up on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/au799)<br>
+🌱 I’m currently learning Computer Vision with Google Cloud<br>👯 I’m looking to collaborate on DeFi Banking Systems<br>👨‍💻 All of my projects are available at https://github.com/au79912?tab=repositories<br>📫 reach me on [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmaik&logoColor=red)](ayihanhaq@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/au799)<br>
 
 
 ## 🌐 Socials:
